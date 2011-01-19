@@ -31,7 +31,7 @@ For more information please visit us at [**Specific CSS/JS for Posts and Pages**
 
 == Installation ==
 
-1. Upload `tt-specific-cssjs` folder to the `/wp-content/plugins/` directory in your blog
+1. Upload `specific-cssjs-for-posts-and-pages` folder to the `/wp-content/plugins/` directory in your blog
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Then you can change some options through the 'Settings' menu in WordPress
 1. You're done!
